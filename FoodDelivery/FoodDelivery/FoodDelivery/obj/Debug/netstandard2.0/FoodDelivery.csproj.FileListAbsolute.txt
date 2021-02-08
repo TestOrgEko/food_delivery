@@ -1,0 +1,14 @@
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\FoodDelivery.csprojAssemblyReference.cache
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\FoodDelivery.AssemblyInfo.cs
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\bin\Debug\netstandard2.0\FoodDelivery.deps.json
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\bin\Debug\netstandard2.0\FoodDelivery.dll
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\bin\Debug\netstandard2.0\ref\FoodDelivery.dll
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\bin\Debug\netstandard2.0\FoodDelivery.pdb
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\FoodDelivery.dll
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\ref\FoodDelivery.dll
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\FoodDelivery.pdb
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\Views\LoginViews\LoginView.xaml.g.cs
