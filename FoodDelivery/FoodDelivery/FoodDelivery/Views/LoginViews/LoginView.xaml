@@ -30,7 +30,7 @@
     </ContentPage.Resources>
     <!--Common Styles Ends-->
     <StackLayout Margin="20,0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Image Margin="0,0,0,30" Source="banner1"></Image>
+        <Image Margin="0,0,0,30" Source="https://i.imgur.com/4rpGUkI.png"></Image>
         <Frame HasShadow="False" CornerRadius="5" BorderColor="{StaticResource BorderColor}" BackgroundColor="#F7F7F7">
 
             <StackLayout>
