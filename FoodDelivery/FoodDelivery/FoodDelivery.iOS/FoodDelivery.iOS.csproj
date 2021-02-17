@@ -69,6 +69,24 @@
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <BundleResource Include="Resources\SF-Pro-Display-Black.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-BlackItalic.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-Bold.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-BoldItalic.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-Heavy.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-HeavyItalic.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-Light.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-LightItalic.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-Medium.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-MediumItalic.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-Regular.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-RegularItalic.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-Semibold.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-SemiboldItalic.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-Thin.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-ThinItalic.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-Ultralight.otf" />
+    <BundleResource Include="Resources\SF-Pro-Display-UltralightItalic.otf" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />

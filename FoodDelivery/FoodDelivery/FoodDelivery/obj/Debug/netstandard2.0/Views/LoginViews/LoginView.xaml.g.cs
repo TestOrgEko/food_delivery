@@ -26,11 +26,15 @@ namespace FoodDelivery.Views.LoginViews {
         private global::Xamarin.Forms.Button ShopIDSubmit;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Xamarin.Forms.Label lbRegAcc;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(LoginView));
             txtLogin = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::FoodDelivery.Custom.CustomEntry>(this, "txtLogin");
             txtPassword = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::FoodDelivery.Custom.CustomEntry>(this, "txtPassword");
             ShopIDSubmit = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "ShopIDSubmit");
+            lbRegAcc = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "lbRegAcc");
         }
     }
 }

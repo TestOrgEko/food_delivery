@@ -9,7 +9,7 @@
     <ContentPage.Resources>
         <ResourceDictionary>
 
-            <Color x:Key="OrangeColor">#eb982d</Color>
+            <Color x:Key="OrangeColor">#e05e00</Color>
             <Color x:Key="BorderColor">#D8D8D8</Color>
 
             <Style x:Key="LableStyle" TargetType="Label">
@@ -45,6 +45,7 @@
                 <Button Margin="100,20" BorderRadius="6" WidthRequest="200" x:Name="ShopIDSubmit" TextColor="White" BackgroundColor="{StaticResource OrangeColor}" Text="Login"></Button>
             </StackLayout>
         </Frame>
+        <Label x:Name="lbRegAcc"  Text="Don't have an account?" TextColor="DodgerBlue" HorizontalTextAlignment="Center"></Label>
     </StackLayout>
 
 </ContentPage>

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 using FoodDelivery.Views.LoginViews;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -10,7 +11,7 @@ namespace FoodDelivery
         public App()
         {
             InitializeComponent();
-            MainPage = new LoginView();
+            MainPage = new RegView();
         }
 
         protected override void OnStart()

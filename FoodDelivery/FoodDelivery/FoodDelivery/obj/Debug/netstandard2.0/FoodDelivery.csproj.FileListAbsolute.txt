@@ -12,3 +12,4 @@ C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDeliver
 C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\ref\FoodDelivery.dll
 C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\FoodDelivery.pdb
 C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\Views\LoginViews\LoginView.xaml.g.cs
+C:\Project\GitHub Repository\food_delivery\FoodDelivery\FoodDelivery\FoodDelivery\obj\Debug\netstandard2.0\Views\LoginViews\RegView.xaml.g.cs
